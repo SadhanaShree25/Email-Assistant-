@@ -1,0 +1,401 @@
+message
+"Message-ID: 101
+From: billing@azure.com
+Subject: Your Azure consumption for October
+Body: Hello, your bill for this month is $45.20. It will be automatically charged."
+"Message-ID: 102
+From: hr@company.com
+Subject: Performance Review Schedule
+Body: Hi Team, please book your slots for the upcoming performance reviews using the linked portal."
+"Message-ID: 103
+From: mom@gmail.com
+Subject: Dinner on Sunday?
+Body: Hey, just wanted to know if you're coming over for dinner this Sunday at 6pm."
+"Message-ID: 104
+From: bounce@news.linkedin.com
+Subject: John Doe and 5 others shared posts
+Body: See what's trending in your professional network today."
+"Message-ID: 105
+From: reservations@united.com
+Subject: Flight Confirmation - UA1234
+Body: Your flight to San Francisco is confirmed. Departure: Nov 12, 8:00 AM."
+"Message-ID: 106
+From: security@bank.com
+Subject: Unusual login attempt detected
+Body: We noticed a login from an unrecognized device. If this was not you, please secure your account."
+"Message-ID: 107
+From: noreply@github.com
+Subject: [GitHub] Potential security vulnerability in your repository
+Body: Dependabot detected a security issue in one of your dependencies. Click to view."
+"Message-ID: 108
+From: pizza-hut@marketing.co
+Subject: 50% OFF TODAY ONLY!
+Body: Grab your favorites at half price! Order now before the deal expires."
+"Message-ID: 109
+From: recruiter@techcorp.io
+Subject: Interview Invitation: Senior AI Engineer
+Body: We loved your profile. Are you available for a 30-min screening call tomorrow?"
+"Message-ID: 110
+From: support@slack.com
+Subject: New login to Slack from Windows 10
+Body: A new device just signed into your Slack workspace."
+"Message-ID: 111
+From: no-reply@zoom.us
+Subject: Meeting link for Sync at 2pm
+Body: Join our daily standup. Link: https://zoom.us/j/12345678"
+"Message-ID: 112
+From: amazon-shipping@amazon.com
+Subject: Your package has been delivered!
+Body: Your order #112-223-445 has been left at the front door."
+"Message-ID: 113
+From: newsletter@medium.com
+Subject: Top stories for you today
+Body: 1. How to build agentic AI. 2. The future of HSL colors. 3. Python 4.0 rumors."
+"Message-ID: 114
+From: info@gym.com
+Subject: Monthly Membership Renewal
+Body: Your gym membership has been successfully renewed. Thank you for staying active with us."
+"Message-ID: 115
+From: friend@outlook.com
+Subject: Road trip plans?!
+Body: Hey! Let's plan that road trip. Are we going north or south?"
+"Message-ID: 116
+From: car.insurance@geico.com
+Subject: Policy Update: Your new documents are ready
+Body: Log in to your portal to view your updated insurance documents."
+"Message-ID: 117
+From: notifications@trello.com
+Subject: Card moved to 'Done': Finish Milestone 4
+Body: Great job! One more task off the list."
+"Message-ID: 118
+From: alert@google.com
+Subject: New device signed in to your account
+Body: Was this you? If not, check your account activity."
+"Message-ID: 119
+From: support@netflix.com
+Subject: Your subscription is on hold
+Body: We were unable to process your last payment. Update your info to continue watching."
+"Message-ID: 120
+From: contact@local-event.org
+Subject: Reminder: Farmers Market this Saturday
+Body: Don't forget to visit the local market for fresh produce between 8am and 12pm."
+"Message-ID: 121
+From: accounts@spotify.com
+Subject: Your receipts for Premium
+Body: Payment of $9.99 for Spotify Premium has been processed."
+"Message-ID: 122
+From: noreply@uber.com
+Subject: Your Friday morning trip with Uber
+Body: Thanks for riding! Total cost: $12.50."
+"Message-ID: 123
+From: university-registrar@state.edu
+Subject: Important Enrollment Deadline
+Body: Last day to add/drop classes for the semester is this Friday."
+"Message-ID: 124
+From: newsletter@substack.com
+Subject: Weekend Reading: The AI Revolution
+Body: A special edition of our newsletter covering the latest in Generative AI."
+"Message-ID: 125
+From: info@apartment-manager.com
+Subject: Rent Payment Confirmation
+Body: We've received your rent payment for November. Thank you."
+"Message-ID: 126
+From: support@discord.com
+Subject: You've been invited to 'The Dev Crew'
+Body: Click the link to join the server and start chatting."
+"Message-ID: 127
+From: notifications@linkedin.com
+Subject: Your profile appeared in 15 searches this week
+Body: See who's looking at your professional profile."
+"Message-ID: 128
+From: security@apple.com
+Subject: Your Apple ID was used to sign in to iMessage on a MacBook Air
+Body: If this was you, ignore this. If not, reset your password."
+"Message-ID: 129
+From: marketing@starbucks.com
+Subject: Don't miss out - BOGO on all Frappuccinos!
+Body: Treat yourself and a friend today between 2pm and 5pm."
+"Message-ID: 130
+From: support@atlassian.com
+Subject: [Jira] (PROJ-42) Bug in the navigation menu
+Body: A new comment was added by the team lead."
+"Message-ID: 131
+From: info@harrison-vets.com
+Subject: Appointment Reminder: Luna's annual checkup
+Body: See you on Tuesday at 4:30pm with Luna."
+"Message-ID: 132
+From: noreply@twitter.com
+Subject: New follower: @agentic_coder
+Body: Someone new is following your tweets."
+"Message-ID: 133
+From: sales@tesla.com
+Subject: Your Model 3 is ready for delivery!
+Body: Please select a delivery window in your Tesla account."
+"Message-ID: 134
+From: alert@amex.com
+Subject: Large Purchase Alert
+Body: A charge of $500.00 at 'Electronics Store' was made on your card ending in 1004."
+"Message-ID: 135
+From: update@npm.com
+Subject: Security alert: vulnerable dependency in 'email-assistant'
+Body: Run 'npm audit fix' to resolve the issues."
+"Message-ID: 136
+From: group@meetup.com
+Subject: New meetup: Python Developers Group
+Body: Join us this Thursday for a talk on LangGraph."
+"Message-ID: 137
+From: info@local-library.org
+Subject: Your books are due tomorrow
+Body: Please return 'Clean Code' by tomorrow to avoid late fees."
+"Message-ID: 138
+From: support@pypa.io
+Subject: PyPI: Successful login to 'agent-user'
+Body: A new login was detected on your PyPI account."
+"Message-ID: 139
+From: hello@duolingo.com
+Subject: 🦉 Don't lose your 50-day streak!
+Body: Keep your Spanish practice going. It only takes 5 minutes."
+"Message-ID: 140
+From: notifications@notion.so
+Subject: Page shared with you: Project Roadmap
+Body: Collaborative workspace access granted."
+"Message-ID: 141
+From: admin@discordapp.com
+Subject: Verify your email address
+Body: Please click the button below to confirm your Discord account."
+"Message-ID: 142
+From: support@adobe.com
+Subject: Your Creative Cloud invoice
+Body: Your monthly bill of $52.99 has been paid."
+"Message-ID: 143
+From: noreply@medium.com
+Subject: Someone highlighted your story
+Body: Check out the latest engagement on your post."
+"Message-ID: 144
+From: info@the-north-face.com
+Subject: Winter Gear - 30% OFF for Members
+Body: Get ready for the cold with our exclusive member deals."
+"Message-ID: 145
+From: help@steam.com
+Subject: Recent purchase on Steam
+Body: You've added 'Cyberpunk 2077' to your library."
+"Message-ID: 146
+From: alerts@chase.com
+Subject: Your statement is now available
+Body: Log in to view your October credit card statement."
+"Message-ID: 147
+From: support@intercom.io
+Subject: Welcome to the Email Assistant community!
+Body: We're glad to have you on board. Here's a quick guide."
+"Message-ID: 148
+From: info@travel-agency.com
+Subject: Your itinerary for Rome
+Body: Flight, hotel, and tour details are attached."
+"Message-ID: 149
+From: no-reply@twitch.tv
+Subject: [Twitch] Someone you follow is LIVE!
+Body: 'agent_ninja' is now streaming 'Coding with LangChain'."
+"Message-ID: 150
+From: contact@car-service.com
+Subject: Your oil change is due
+Body: Schedule your next maintenance appointment now."
+"Message-ID: 151
+From: billing@zoom.us
+Subject: Zoom Invoice - INV12345
+Body: Your Pro plan has been renewed. Total: $14.99."
+"Message-ID: 152
+From: info@coursera.org
+Subject: Continue your course: Machine Learning
+Body: You're 60% done! Keep going to earn your certificate."
+"Message-ID: 153
+From: support@airtable.com
+Subject: Workflow update: New record added
+Body: A new entry was made in your 'Lead Tracking' base."
+"Message-ID: 154
+From: marketing@dominos.com
+Subject: Two for Tuesday - Buy one Get one Free
+Body: Order your favorite pizzas online for this exclusive deal."
+"Message-ID: 155
+From: noreply@instacart.com
+Subject: Your order has been picked up
+Body: Your shopper is on the way with your groceries."
+"Message-ID: 156
+From: notifications@facebook.com
+Subject: You have 12 new notifications
+Body: See what your friends are sharing on Facebook."
+"Message-ID: 157
+From: support@stripe.com
+Subject: Your weekly payout is on its way
+Body: A transfer of $1,250.00 is being sent to your bank account."
+"Message-ID: 158
+From: info@local-events.com
+Subject: Don't miss: The Annual Tech Expo
+Body: Join us this Saturday at the Convention Center."
+"Message-ID: 159
+From: help@paypal.com
+Subject: You sent a payment of $25.00
+Body: Payment to 'Charity Fund' was successful."
+"Message-ID: 160
+From: support@replit.com
+Subject: Your resource usage has reached 80%
+Body: Consider upgrading your plan to avoid downtime."
+"Message-ID: 161
+From: notifications@asana.com
+Subject: New task assigned to you: Write Evaluation Script
+Body: Due date: Tomorrow."
+"Message-ID: 162
+From: info@blue-host.com
+Subject: Your domain renewal notice
+Body: 'agentassistant.com' will expire in 30 days."
+"Message-ID: 163
+From: noreply@yelp.com
+Subject: Someone found your review helpful!
+Body: Your rating of 'The Local Cafe' is helping others."
+"Message-ID: 164
+From: support@canva.com
+Subject: Your Canva Pro subscription has been updated
+Body: New features are now available in your account."
+"Message-ID: 165
+From: info@nike.com
+Subject: Just Do It - New Collection Drop
+Body: Explore our latest running shoes and gear."
+"Message-ID: 166
+From: alerts@wells-fargo.com
+Subject: Withdrawal from your checking account
+Body: $200.00 was withdrawn from an ATM at 7:30 PM."
+"Message-ID: 167
+From: notifications@reddit.com
+Subject: Trending on r/LangChain: Building with Graphs
+Body: Check out the top post of the day."
+"Message-ID: 168
+From: help@lyft.com
+Subject: Your ride with John
+Body: Total: $15.50. Rate your experience."
+"Message-ID: 169
+From: support@dropbox.com
+Subject: You're running out of space!
+Body: Upgrade to Plus for 2TB of storage and more features."
+"Message-ID: 170
+From: info@patreon.com
+Subject: New post from your favorite creator
+Body: 'The AI Guy' just shared a new exclusive video."
+"Message-ID: 171
+From: billing@aws.amazon.com
+Subject: AWS Billing Statement Available
+Body: Your Oct invoice for 'agent-project' is ready."
+"Message-ID: 172
+From: support@grammarly.com
+Subject: Your weekly writing report
+Body: You wrote 5,000 words this week! See the breakdown."
+"Message-ID: 173
+From: noreply@quora.com
+Subject: Someone asked you a question
+Body: 'How do I start with LangGraph?' Answer now."
+"Message-ID: 174
+From: info@ikea.com
+Subject: Your order is ready for pickup
+Body: Head to the click-and-collect point with your ID."
+"Message-ID: 175
+From: alerts@standard-chartered.com
+Subject: Credit Card Statement Ready
+Body: Your monthly statement for card ending 8899 is available."
+"Message-ID: 176
+From: support@circleci.com
+Subject: Build failed: test-workflow
+Body: Repository: email-assistant. Branch: main."
+"Message-ID: 177
+From: notifications@pinterest.com
+Subject: We found new pins for you
+Body: Design inspiration, home decor, and DIY projects."
+"Message-ID: 178
+From: help@airbnb.com
+Subject: Someone is interested in your listing!
+Body: You have a new booking inquiry for next weekend."
+"Message-ID: 179
+From: info@the-economist.com
+Subject: This week's cover story
+Body: The global economy in transition - Read more."
+"Message-ID: 180
+From: support@godaddy.com
+Subject: Your hosting plan expires in 7 days
+Body: Renew now to keep your website live."
+"Message-ID: 181
+From: alerts@bank-of-america.com
+Subject: Bill Pay Confirmation
+Body: Your payment to 'Electric Co' has been sent."
+"Message-ID: 182
+From: notifications@behance.net
+Subject: Someone liked your project
+Body: See who's admiring your creative work."
+"Message-ID: 183
+From: help@expedia.com
+Subject: Price drop for your trip to Tokyo!
+Body: Save $200 if you book your flight today."
+"Message-ID: 184
+From: info@harvard-business-review.org
+Subject: Management Tip of the Day
+Body: How to lead hybrid teams effectively."
+"Message-ID: 185
+From: support@hubspot.com
+Subject: New lead from your website
+Body: Name: Jane Smith. Email: jane@example.com."
+"Message-ID: 186
+From: alerts@barclays.co.uk
+Subject: Secure Message from the Bank
+Body: Log in to our secure area to read important news."
+"Message-ID: 187
+From: notifications@stack-overflow.com
+Subject: Your answer was accepted!
+Body: You earned 15 reputation points. Keep up the help!"
+"Message-ID: 188
+From: help@doordash.com
+Subject: Where is your food? Track it here
+Body: Your Dasher is 5 minutes away."
+"Message-ID: 189
+From: info@wired.com
+Subject: The Future of Quantum Computing
+Body: Exclusive deep dive into the latest breakthroughs."
+"Message-ID: 190
+From: support@postman.com
+Subject: You've been added to a new team workspace
+Body: Start collaborating on API documentation."
+"Message-ID: 191
+From: notifications@tiktok.com
+Subject: Check out these trending videos
+Body: See what's viral in your feed right now."
+"Message-ID: 192
+From: help@booking.com
+Subject: Important update regarding your stay in Paris
+Body: Please confirm your arrival time with the host."
+"Message-ID: 193
+From: info@national-geographic.com
+Subject: Best of the World 2026
+Body: Discover the top destinations for your next adventure."
+"Message-ID: 194
+From: support@bitbucket.org
+Subject: Merge request approved: PROJ-123
+Body: The changes have been merged into the master branch."
+"Message-ID: 195
+From: notifications@instagram.com
+Subject: Someone you might know is on Instagram
+Body: Connect with your contacts and see their photos."
+"Message-ID: 196
+From: help@agoda.com
+Subject: Last-minute hotel deals in Bali
+Body: Save up to 50% for stays this coming weekend."
+"Message-ID: 197
+From: info@forbes.com
+Subject: 30 Under 30 List for 2026
+Body: Meet the young leaders shaping the future."
+"Message-ID: 198
+From: support@firebase.google.com
+Subject: Your project is exceeding free tier limits
+Body: Upgrade to the Blaze plan to ensure reliability."
+"Message-ID: 199
+From: notifications@twitch.tv
+Subject: Recommended Channel: 'CodeMaster'
+Body: Based on your interest in 'Python' and 'AI'."
+"Message-ID: 200
+From: support@lovable.ai
+Subject: Welcome to Lovable!
+Body: Start building your dream apps with our AI-powered platform."
