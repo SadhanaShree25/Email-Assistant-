@@ -1,5 +1,7 @@
 # 📧 NexusInbox: Intelligent AI Email Assistant
 
+> **Internship Project**: Developed during my internship at **Infosys Springboard**.
+
 NexusInbox is a state-of-the-art AI agent built to revolutionize how you manage your communications. It doesn't just read your email; it **reasons**, **categorizes**, and **acts** as your personal office assistant.
 
 ---
